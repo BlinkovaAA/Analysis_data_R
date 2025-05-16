@@ -5,7 +5,7 @@
 
 ## Получение данных
 ```{r echo=FALSE, message = FALSE, warning=FALSE}
-setwd("D:\\Прога\\ЦК анализ мед данных\\Основы программирования на R")
+setwd("...")
 library(data.table)
 library(ggplot2)
 library(dplyr)
